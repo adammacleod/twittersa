@@ -2,6 +2,9 @@
 
 My first R project - it's a mishmash of various guides found around the web. Buyer beware: This is crappy code!
 
+![](tsa.gif "A quick view of TSA.")
+
+
 ## Install Instructions
 
 Copy the example config file (config.R.sample) to config.R and update with your twitter API details.
